@@ -1,0 +1,2 @@
+# pycoin
+Criando um criptomoeda
